@@ -1,2 +1,5 @@
-# tableau_elearn
-Notes from Elearning Tableau
+Dimensions
+* Qualitative or Categorical Data 
+
+Measure
+* Quantifiable data 
